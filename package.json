@@ -1,0 +1,22 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "description": "My portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Backalla/site.git"
+  },
+  "author": "Tushar Pawar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Backalla/site/issues"
+  },
+  "homepage": "https://github.com/Backalla/site#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
